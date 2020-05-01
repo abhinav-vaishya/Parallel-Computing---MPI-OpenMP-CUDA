@@ -1,4 +1,4 @@
-# Intoduction to Parallel Scientific Computing - Assignment 3
+# Introduction to Parallel Scientific Computing - Assignment 3
 -All codes are in codes/ folder
 
 ## Question 2
